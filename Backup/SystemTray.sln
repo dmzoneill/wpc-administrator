@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SystemTray", "SystemTray.vbproj", "{CF06DE9C-F269-4DC4-93BE-CDBD39901392}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CF06DE9C-F269-4DC4-93BE-CDBD39901392}.Debug.ActiveCfg = Debug|.NET
+		{CF06DE9C-F269-4DC4-93BE-CDBD39901392}.Debug.Build.0 = Debug|.NET
+		{CF06DE9C-F269-4DC4-93BE-CDBD39901392}.Release.ActiveCfg = Release|.NET
+		{CF06DE9C-F269-4DC4-93BE-CDBD39901392}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="SystemTray">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\root\Desktop\1004-1303\SystemTray.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\root\Desktop\1004-1303\SystemTray.suo">
+</Property><Property Name="Date" Value="04 September 2006">
+</Property><Property Name="Time" Value="21:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SystemTray.sln" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\SystemTray.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SystemTray.suo" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\SystemTray.suo">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="SystemTray.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\SystemTray.vbproj">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="SystemTray.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\SystemTray.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="Form1.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\1004-1303\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="SystemTray.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SystemTray" Source="SystemTray.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SystemTray.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SystemTray.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SystemTray" Source="SystemTray.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
