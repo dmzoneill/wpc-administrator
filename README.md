@@ -1,5 +1,9 @@
 # WPC Administrator
 
+<p align="center">
+  <img src=".github/logo.png" alt="wpc-administrator logo" width="128" />
+</p>
+
 A Windows Forms tool for administering Workstation Policy Control (WPC)
 settings on a Windows machine.
 
